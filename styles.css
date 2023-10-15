@@ -1,0 +1,19 @@
+.table-responsive {
+    margin-bottom: 1rem;
+    overflow-y: hidden;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .table-responsive::-webkit-scrollbar {
+    display: none;
+  }
+
+  .graph-container {
+    position: relative;
+    margin-top: 2rem;
+  }
+
+  .graph-canvas {
+    max-width: 600px;
+  }
